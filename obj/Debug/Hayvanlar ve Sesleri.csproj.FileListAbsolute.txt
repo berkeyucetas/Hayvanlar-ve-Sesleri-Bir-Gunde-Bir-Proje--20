@@ -1,0 +1,16 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\bin\Debug\Hayvanlar ve Sesleri.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\bin\Debug\Hayvanlar ve Sesleri.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\bin\Debug\Hayvanlar ve Sesleri.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar_ve_Sesleri.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar_ve_Sesleri.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hayvanlar ve Sesleri\Hayvanlar ve Sesleri\obj\Debug\Hayvanlar ve Sesleri.csproj.ResolveComReference.cache
